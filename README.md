@@ -12,7 +12,7 @@ To use this application, after downloading the files, you must enter your own AP
 - HTML,CSS
 - Javascript
 - Javacript Modules
-- Google API
+- Google Translate API
 ```
 
 ## Preview 
