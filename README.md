@@ -15,6 +15,6 @@ It is an application that uses the Google Translate API to reinforce the module 
 
 ## Preview 
 
-![screenshot](./img/screenshot1.png/) 
+![screenshot](./images/screenshot1.png/) 
 
-![screenshot](./img/screenshot2.png/) 
+![screenshot](./images/screenshot2.png/) 
