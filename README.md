@@ -10,8 +10,7 @@ To use this application, after downloading the files, you must enter your own AP
 ### Tech stack
 ```
 - HTML,CSS
-- Javascript
-- Javacript Modules
+- Javascript, Javacript Modules
 - Google Translate API
 ```
 
