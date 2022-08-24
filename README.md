@@ -17,4 +17,4 @@ It is an application that uses the Google Translate API to reinforce the module 
 
 ![screenshot](./images/screenshot1.png/) 
 
-![screenshot](./images/screenshot2.png/) 
+![screenshot](./images/sreenshot2.png/) 
